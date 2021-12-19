@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\core",
+    "\\src\\app\\core\\services",
+    "\\src\\app\\features",
+    "\\src\\app\\features\\list-images",
+    "\\src\\app\\features\\list-images-item",
+    "\\src\\app\\pages",
+    "\\src\\app\\pages\\contact",
+    "\\src\\app\\pages\\home"
+  ],
+  "SelectedNode": "\\src\\app\\features\\list-images\\list-images.component.html",
+  "PreviewInSolutionExplorer": false
+}
