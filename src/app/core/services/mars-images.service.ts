@@ -11,7 +11,7 @@ export class MarsImagesService {
 
   
   APIKEY = "&api_key=mxaTWZ3ZxTJUzuolu7oaCXWmC96LDblWj2RAItUY";
-  URLAPI = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date={{annee}}-{{mois}}-{{jour}}";
+  URLAPI = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2016-9-10";
  
   marsPhotos = [
     {id: "1", img_src:"../../../assets/img/img_1.jpeg"},

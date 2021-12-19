@@ -6,10 +6,14 @@ import { ListImagesItemComponent } from 'src/app/features/list-images-item/list-
 })
 export class MyGalleryService {
 
-  image=[];
-  addPhoto(){
-    image.push([ "test"
-    ])
+  image: any=[
+
+  ];
+  addPhoto(photogallery: any){
+    
+    this.image.push({
+      photogallery 
+    });
   }
   constructor() { }
 }
