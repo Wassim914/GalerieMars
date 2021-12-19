@@ -8,7 +8,7 @@ export class MyGalleryService {
 
   image=[];
   addPhoto(){
-    image.push([
+    image.push([ "test"
     ])
   }
   constructor() { }
