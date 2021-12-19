@@ -9,7 +9,6 @@ export class MyGalleryService {
   image=[];
   addPhoto(){
     image.push([
-    ListImagesItemComponent.marsphoto
     ])
   }
   constructor() { }
